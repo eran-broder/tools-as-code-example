@@ -50,28 +50,17 @@ A simple agent using these tools will "charge" you like this:
 
 ##### ⏰ Step 2:
 
-**Input:**
-
 - 💰 Tokens for the task.
 - 💰 Call the tool to get the user ID.
 - 💰 The user ID.
-
-**Output:**
-
-- 💰 Call the tool to get the phone number.
+- 📤 Call the tool to get the phone number.
 
 ##### ⏰ Step 3:
-
-**Input:**
-
 - 💰 Tokens for the task.
 - 💰 Call the tool to get the user ID.
 - 💰 The user ID.
 - 💰 Call the tool to get the phone number.
-
-**Output:**
-
-- 💰 The phone number (but as a tool result).
+- 📤 The phone number (but as a tool result).
 
 ##### ⏰ Step 4:
 
@@ -82,16 +71,13 @@ A simple agent using these tools will "charge" you like this:
 - 💰 The user ID.
 - 💰 Call the tool to get the phone number.
 - 💰 The phone number (but as a tool result).
-
-**Output:**
-
-- 💰 A nice message with the phone number.
+- 📤 A nice message with the phone number.
 
 **Time Cost:** 4× ⏰
 
 **Total Token Cost:** 17× 💰
 
-#### New Approach
+## New Approach
 
 ##### ⏰ Step 1:
 
