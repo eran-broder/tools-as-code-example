@@ -84,10 +84,7 @@ A simple agent using these tools will "charge" you like this:
 **Input:**
 
 - 💰 The task.
-
-**Output:**
-
-- 💰 Run the code that takes care of everything.
+- 📤 Run the code that takes care of everything.
 
 **Time Cost:** 1× ⏰
 
