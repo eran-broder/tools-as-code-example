@@ -28,17 +28,27 @@ and I give the agent the following task:
 
 a simple agent with the tools will "charge" you like this:
 ⏰Step 1:
+
 Input: 
+
 💰 the task
+
 Output:
+
 💰 call the tool to get the user id
 
 ⏰Step 2:
+
 Input:
+
 💰 tokens for the task 
+
 💰 call the tool to get the user id
+
 💰 the user id 
+
 Output:
+
 💰 call the tool to get the phone number
 
 ⏰Step 3:
