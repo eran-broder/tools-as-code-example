@@ -39,14 +39,8 @@ And we give the agent the following task:
 A simple agent using these tools will "charge" you like this:
 
 ##### ⏰ Step 1:
-
-**Input:**
-
 - 💰 The task.
-
-**Output:**
-
-- 💰 Call the tool to get the user ID.
+- 📤 Call the tool to get the user ID.
 
 ##### ⏰ Step 2:
 
